@@ -1,10 +1,6 @@
 ## Olá, bem-vindo ao meu perfil
 Me chamo João Victor, estudante de Eng. Software
 
-- 🔭 Estou cursando Eng. Software
-- 🌱 Estudando Java
-- 📫 Contate-me no email: jv3752912@gmail.com
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=jo-osant&show_icons=true&theme=dark"
