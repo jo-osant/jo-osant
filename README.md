@@ -9,4 +9,4 @@ Bem-vindo ao meu perfil do GitHub
 
 ##
 
-![Snake animation](https://github.com/jo-osant/jo-osant/blob/output/github-contribution-grid-snake.svg)
+
